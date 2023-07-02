@@ -35,7 +35,7 @@ Install the following libraries in your Python environment:
 
 * The chatbot will ask for another prompt or give you another response depending on the feedback
 
-![Demo](demo.jpeg)
+![Demo](./demo.jpeg)
 
 
 
