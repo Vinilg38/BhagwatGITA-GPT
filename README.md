@@ -21,7 +21,7 @@ Install the following libraries in your Python environment:
 
 * Numpy 
 
-* Skikit-learn
+* Scikit-learn
 
 * Tkinter
 
